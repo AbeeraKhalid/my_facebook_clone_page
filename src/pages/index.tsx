@@ -23,7 +23,8 @@ export default function Home(){
         <span className="my-2">
           <hr />
           </span>
-          <button className="bg-green-500 my-2 py-2 px-2 text-lg font-bold text-white rounded-md hover:bg-green-600 w-fit mx-auto">Create New Account</button>
+          <button className="bg-green-500 my-2 py-2 px-2 text-lg font-bold text-white rounded-md hover:bg-green-600 w-fit mx-auto">
+            Create New Account</button>
       </div>
 
     </div>
